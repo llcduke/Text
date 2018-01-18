@@ -18,6 +18,7 @@ div{
 	text-align:center;
 	border:1px solid #000000;
 }
+发生的分解哈可怜的撒；领教过了；卡机的管理科；阿娇阿娇发的爱讲道理；啊价格可拉倒发几款；
 </style>
 	<c:forEach var="num" begin="2" end="100" step="2">
 		<div>${ num }</div>
